@@ -1,4 +1,4 @@
-# About This Portfolio
+# About This Research Hub
 
 ## Navigation
 
@@ -6,12 +6,12 @@
 
 ## Purpose
 
-이 포트폴리오 허브는 금융공학 및 금융 데이터 기반 연구와 프로젝트를 외부에서 이해하기 쉬운 구조로 정리하기 위해 작성되었습니다.
+이 리서치 허브는 금융공학 및 금융 데이터 기반 연구와 프로젝트를 외부에서 이해하기 쉬운 구조로 정리하기 위해 작성되었습니다.
 
 핵심 목적은 다음과 같습니다.
 
 - 전문 분야와 연구 방향을 명확하게 소개
-- 프로젝트 카테고리별 안내 페이지 제공
+- 연구 카테고리 안내 페이지 제공
 - 향후 개별 프로젝트 repository 연결 기반 마련
 - Notion 연구 노트 및 발표 자료 연결 구조 정리
 
@@ -23,19 +23,19 @@
 
 ## How This Repository Is Used
 
-이 저장소는 직접적인 결과물 저장소라기보다 안내 허브로 사용됩니다.
+이 저장소는 직접적인 결과물 저장소라기보다 연구 안내 허브로 사용됩니다.
 
-- Hub: 이 저장소에서 카테고리와 프로젝트 개요를 소개
+- Hub: 이 저장소에서 연구 카테고리와 프로젝트 개요를 소개
 - Project Repo: 실제 코드와 재현 가능한 산출물 관리
 - Notion: 연구 노트, 수강 기록, 세부 분석 정리
 - Slides: 발표 자료 및 요약 자료 연결
 
-## Core Categories
+## Core Research Categories
 
-- [Financial Risk Modeling](../projects/financial-risk-modeling.md)
-- Derivatives and Risk Management
-- Quant Trading Strategy Research
-- Financial Data Science
+- [Financial Risk Modeling](../research-categories/financial-risk-modeling.md)
+- [Derivatives and Risk Management](../research-categories/derivatives-and-risk-management.md)
+- [Quant Trading Strategy Research](../research-categories/quant-trading-strategy-research.md)
+- [Financial Data Science](../research-categories/financial-data-science.md)
 
 ## Writing Principles
 
@@ -48,11 +48,11 @@
 
 ### Phase 1
 
-포트폴리오 허브 구조 완성
+리서치 허브 구조 완성
 
 ### Phase 2
 
-카테고리별 프로젝트 후보 정리
+연구 카테고리별 후보 프로젝트 정리
 
 ### Phase 3
 
@@ -60,4 +60,4 @@
 
 ### Phase 4
 
-GitHub Pages 기반 웹 포트폴리오 공개
+GitHub Pages 기반 웹 리서치 허브 공개
